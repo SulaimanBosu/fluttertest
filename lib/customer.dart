@@ -14,7 +14,7 @@ class _CusToMerState extends State<CusToMer> {
       appBar: AppBar(
           // backgroundColor: MyStyle().appbarColor,
           ),
-      body: Center(child: Text('CusToMer Page')),
+      body: Center(child: Text('CusToMer')),
     );
   }
 }
